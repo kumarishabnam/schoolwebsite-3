@@ -1,0 +1,77 @@
+body {
+    margin: 0px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#video {
+    width: 100%;
+    height: 500px;
+    border: none;
+}
+
+#marqueestyle {
+    background-color: blue;
+    color: white;
+}
+
+.my_nav_bar {
+    position: sticky;
+    top: 0px;
+    z-index: 99999;
+}
+
+#map iframe {
+    width: 100%;
+}
+
+#Details h3 {
+    display: inline;
+}
+#contact iframe
+{
+    width: 100%;
+}
+.travel_mainDiv
+{
+    border: 1px solid lightgrey;
+}
+.travel_mainDiv img{
+    width: 100%;
+}
+.travel_mainDiv h5, .travel_mainDiv p
+{
+    margin: 20px;
+}
+.nav :hover
+{
+ font-size: 30px;
+}
+nav
+{
+    background-image: linear-gradient(rgb(220, 255, 23),rgb(42, 216, 36) );
+}
+.container
+{
+    font-family: 'Courier New', Courier;
+    color: black;
+}
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.movie_head i
+{
+    float: right;
+}
+.movie_text span
+{
+   color: orange;
+}
